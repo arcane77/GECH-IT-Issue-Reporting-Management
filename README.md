@@ -6,12 +6,12 @@ This application aims to streamline the process of reporting and managing IT iss
 
 ## 📚 Table of Contents
 
-1. [🌟 Features](#Features)
-2. [💾 Installation](#Installation)
-3. [🔧 Usage](#Usage)
-4. [🛠 Technologies Used](#Technologies-Used)
-5. [📸 Snapshots](#Snapshots)
-6. [🤝 Contributing](#Contributing)
+1. 🌟 Features
+2. 💾 Installation
+3. 🔧 Usage
+4. 🛠 Technologies Used
+5. 📸 Snapshots
+6. 🤝 Contributing
 
 ---
 
@@ -26,10 +26,10 @@ This application aims to streamline the process of reporting and managing IT iss
 
 ## 💾 Installation
 
-1️⃣ Clone the repository: `git clone https://github.com/your-username/GECH-IT-Issue-Management.git`  
-2️⃣ Navigate to the project folder: `cd GECH-IT-Issue-Management`  
-3️⃣ Install required packages and libraries.  
-4️⃣ Download and install [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/) for database connectivity.  
+1️⃣ Download the Zip file  
+2️⃣ Open the project in your favourite IDE: `eclipse`  
+3️⃣ Install required packages and libraries(apache tomcat and MySQL connect or)
+4️⃣ Download and install [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/) for database connectivity(place the connector jar file in Program Files/Apache/tomcat/lib folder)
 5️⃣ Configure MySQL database and update connection settings in your `config` files.  
 6️⃣ Deploy the web application on a Tomcat server.
 
