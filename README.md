@@ -27,10 +27,15 @@ This application aims to streamline the process of reporting and managing IT iss
 ## 💾 Installation
 
 1️⃣ Download the Zip file  
+
 2️⃣ Open the project in your favourite IDE: `eclipse`  
+
 3️⃣ Install required packages and libraries(apache tomcat and MySQL connect or)
+
 4️⃣ Download and install [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/) for database connectivity(place the connector jar file in Program Files/Apache/tomcat/lib folder)
-5️⃣ Configure MySQL database and update connection settings in your `config` files.  
+
+5️⃣ Configure MySQL database and update connection settings in your `config` files. 
+
 6️⃣ Deploy the web application on a Tomcat server.
 
 ---
