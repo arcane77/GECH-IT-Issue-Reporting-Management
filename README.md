@@ -10,7 +10,8 @@ This application aims to streamline the process of reporting and managing IT iss
 2. [💾 Installation](#Installation)
 3. [🔧 Usage](#Usage)
 4. [🛠 Technologies Used](#Technologies-Used)
-5. [🤝 Contributing](#Contributing)
+5. [📸 Snapshots](#Snapshots)
+6. [🤝 Contributing](#Contributing)
 
 ---
 
@@ -49,6 +50,29 @@ This application aims to streamline the process of reporting and managing IT iss
 - Back-end: Servlet, JSP
 - Database: MySQL
 
+---
+
+## 📸 Snapshots
+
+Login page
+---
+![WhatsApp Image 2023-08-25 at 5 14 53 PM](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/99d3d8a2-db91-4eb4-9607-52ebaa0b1545)
+---
+Landing page
+---
+![WhatsApp Image 2023-08-25 at 5 14 54 PM](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/8f0ac6c0-e587-4ddd-b1b7-1ec98ee6bd4b)
+---
+Report an Issue
+---
+![WhatsApp Image 2023-08-25 at 5 14 54 PM (1)](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/501f4f92-ce79-4bd1-9262-77345e42b573)
+---
+Alert message
+---
+![WhatsApp Image 2023-08-25 at 5 14 54 PM (2)](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/c31ead1d-36de-4811-91c3-bd521b017efa)
+---
+Reported Issues
+---
+![WhatsApp Image 2023-08-25 at 5 14 54 PM (3)](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/90be6d6a-c1d0-4613-bb13-0dd41fbb220a)
 ---
 
 ## 🤝 Contributing
