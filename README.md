@@ -45,7 +45,7 @@ This application aims to streamline the process of reporting and managing IT iss
 1. Open a web browser and navigate to the deployed application URL.
 2. Sign in using your credentials.
 3. To report an issue, click on 'Report Issue' and fill out the required fields.
-4. To manage issues, navigate to the admin dashboard.
+4. To manage issues, navigate to the reported dashboard.
 
 ---
 
