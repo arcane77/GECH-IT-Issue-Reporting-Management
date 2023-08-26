@@ -2,7 +2,7 @@
 
 ## 📝 Description
 
-This application aims to streamline the process of reporting and managing IT issues at GECH (Generic Engineering College or University). It significantly reduces manual workload by 70% and improves the accuracy of product data by 90%.
+This application aims to streamline the process of reporting and managing IT issues at GECH (Government Engineering College of Hassan). It significantly reduces manual workload by 70% and improves the accuracy of product data by 90%.
 
 ## 📚 Table of Contents
 
