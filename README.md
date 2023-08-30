@@ -84,5 +84,5 @@ Reported Issues
 
 For contributions, please create a fork of the repository, make your changes, and create a pull request.
 
-##🙋‍♀️ Support
+## 🙋‍♀️ Support
 If you found this project useful, don't hesitate to give it a ⭐ and share it with your friends!
