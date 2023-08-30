@@ -1,4 +1,4 @@
-# 🌐 GECH IT Issue Reporting and Management Web Application
+# GECH IT Issue Reporting and Management Web Application
 
 ## 📝 Description
 
@@ -83,3 +83,6 @@ Reported Issues
 ## 🤝 Contributing
 
 For contributions, please create a fork of the repository, make your changes, and create a pull request.
+
+🙋‍♀️ Support
+If you found this project useful, don't hesitate to give it a ⭐ and share it with your friends!
