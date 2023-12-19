@@ -1,10 +1,10 @@
 # GECH IT Issue Reporting and Management Web Application
 
-## 📝 Description
+##  Description
 
 This application aims to streamline the process of reporting and managing IT issues at GECH (Government Engineering College of Hassan). It significantly reduces manual workload by 70% and improves the accuracy of product data by 90%.
 
-## 📚 Table of Contents
+##  Table of Contents
 
 1. Features
 2. Installation
