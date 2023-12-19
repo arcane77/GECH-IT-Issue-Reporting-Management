@@ -61,7 +61,7 @@ This application aims to streamline the process of reporting and managing IT iss
 
 Login page
 ---
-![WhatsApp Image 2023-08-25 at 5 14 53 PM](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/99d3d8a2-db91-4eb4-9607-52ebaa0b1545)
+![WhatsApp Image 2023-12-19 at 6 13 39 PM](https://github.com/arcane77/GECH-IT-Reporting-Management/assets/96630482/d023d4bb-3d54-41e1-841e-3b19988b4fdf)
 ---
 Landing page
 ---
