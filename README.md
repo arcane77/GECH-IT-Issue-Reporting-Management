@@ -83,7 +83,8 @@ Reported Issues
 ---
 ![WhatsApp Image 2023-08-25 at 5 14 54 PM (3)](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/90be6d6a-c1d0-4613-bb13-0dd41fbb220a)
 ---
-Solved Issues
+### Solved Issues
+---
 ![WhatsApp Image 2023-12-19 at 5 48 42 PM (1)](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/d63a8d76-ad6b-4b6f-8ec5-9d8bf8652c81)
 
 ## 🤝 Contributing
