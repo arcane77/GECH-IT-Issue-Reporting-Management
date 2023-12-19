@@ -6,16 +6,16 @@ This application aims to streamline the process of reporting and managing IT iss
 
 ## 📚 Table of Contents
 
-1. 🌟 Features
-2. 💾 Installation
-3. 🔧 Usage
-4. 🛠 Technologies Used
-5. 📸 Snapshots
-6. 🤝 Contributing
+1. Features
+2. Installation
+3. Usage
+4. Technologies Used
+5. Snapshots
+6. Contributing
 
 ---
 
-## 🌟 Features
+##  Features
 
 - Automated Issue Reporting: Allows users to report IT issues with a simple and intuitive interface.
 - Data Accuracy: Implements data validation and integrity checks to ensure 90% accuracy.
@@ -24,7 +24,7 @@ This application aims to streamline the process of reporting and managing IT iss
 
 ---
 
-## 💾 Installation
+##  Installation
 
 1️⃣ Download the Zip file  
 
@@ -40,7 +40,7 @@ This application aims to streamline the process of reporting and managing IT iss
 
 ---
 
-## 🔧 Usage
+##  Usage
 
 1. Open a web browser and navigate to the deployed application URL.
 2. Sign in using your credentials.
@@ -49,7 +49,7 @@ This application aims to streamline the process of reporting and managing IT iss
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Front-end: HTML, CSS3
 - Back-end: Servlet, JSP
@@ -57,7 +57,7 @@ This application aims to streamline the process of reporting and managing IT iss
 
 ---
 
-## 📸 Snapshots
+##  Snapshots
 
 Login page
 ---
@@ -75,14 +75,20 @@ Alert message
 ---
 ![WhatsApp Image 2023-08-25 at 5 14 54 PM (2)](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/c31ead1d-36de-4811-91c3-bd521b017efa)
 ---
+Admin Dashboard
+---
+![WhatsApp Image 2023-12-19 at 5 48 42 PM](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/f813f327-2efb-4ec2-84ac-b906133640a9)
+---
 Reported Issues
 ---
 ![WhatsApp Image 2023-08-25 at 5 14 54 PM (3)](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/90be6d6a-c1d0-4613-bb13-0dd41fbb220a)
 ---
+Solved Issues
+![WhatsApp Image 2023-12-19 at 5 48 42 PM (1)](https://github.com/arcane77/GECH-IT-Solution-Management/assets/96630482/d63a8d76-ad6b-4b6f-8ec5-9d8bf8652c81)
 
 ## 🤝 Contributing
 
 For contributions, please create a fork of the repository, make your changes, and create a pull request.
 
-## 🙋‍♀️ Support
+## 🙋‍♀ Support
 If you found this project useful, don't hesitate to give it a ⭐ and share it with your friends!
